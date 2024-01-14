@@ -32,7 +32,7 @@ yay && yay -S mesa freeglut //With yay installed
 
 ## Image:
 
-![Image](https://github.com/WHKnightZ/OpenGL-Load-Model/blob/master/test.png)
+![Image]([https://github.com/WHKnightZ/OpenGL-Load-Model/blob/master/test.png](https://github.com/michaelbagdazian/3DProjectBoat/blob/main/OpenGL-Load-Model/test.png))
 
 ## References:
 
